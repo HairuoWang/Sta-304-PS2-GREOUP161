@@ -1,5 +1,5 @@
 ---
-title: "Religion Affiliation status of Canadian and the Variables Affecting it"
+title: "Religion Affiliation status of Canadian and the Variables Affecting it hhhh"
 author: "Hanrui Dou, Hanjing Huang, Hairuo Wang, Xuan Zhong - Group 161"
 date: "October 19 2020"
 output:
