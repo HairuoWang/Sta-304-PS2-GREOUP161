@@ -1,0 +1,61 @@
+---
+title: "STA304 PS1 Q2"
+author: "Huang HanJing"
+date: "2020/10/1"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Question2
+
+#Part a 
+The survey I world like to do is about what kinds of students who study at university would like to spend money on different daily expenses each month. As a student, I would like to know more about other students' daily expenses. There are several daily expenses of students, such as school supplies???food, daily necessities, clothes, gifts, cosmetics, hobbies. The interesting thing is everyone would like to spend their money on different type, I just wondering is that because of the gender or hobbies? Using this survey, I can compare and understand the information about different students' daily expenses and the exact amount they spent each month.
+
+#Part b
+Target population: students who study in university
+
+Frame population: The listed of all university studenst in Canada from Canada Bureau.
+
+Sample population: select different university's students
+
+Sampling procedure: two-stage cluster sampling.
+
+First stage: sample from the list of university students from the Canada Bureau using simple random sampling.
+
+Second stage: use simple random sample to select different university and give the interview by send the survey or email to students who study at this university. 
+
+I firstly separate the population into clusters which can make sampling more useful. Secondly, I select a few clusters randomly, and also select a few units. I am using simple random sampling for both two stages. The cluster that randomly selected can fully represent the full population.
+
+In simple random sampling, I select a gender from the population at random. This ensures female and male has an equal probability of being selected.
+
+Drawbacks of cluster sampling
+Some people may not willing to respond, they refuse to take the survey because they think the survey wastes their time. Furthermore, the cost of this form of the survey may be relatively higher. It may affect the accuracy of the survey results. Because some people are not willing to respond.
+
+Strengths of cluster sampling
+I can get a very helpful sample of the daily expenses of college students. If I choose to put the questionnaire on the website, this research will be affected by the level of people's willingness. In addition, if I only put the questionnaire on the Internet, some students who do not use computers will miss the questionnaire and the research will be inaccurate. Therefore, using two-stage cluster sampling could be avoided by the situation I told before.
+
+
+#Part c
+Here is link of my survey
+https://www.surveymonkey.com/r/V7DP2SJ
+
+#Part d
+
+1. Which grade are you in???
+This is a very basic question. The reason I asked this question is that the question of grade may be an important factor influencing costs. For students, the needs of each grade are also different. When analyzing data, we first need to know the basic information about the analyzed sample. The drawbacks of this question is that grade may not be the main categorical that effect daily spending.
+
+3. What kind of daily expenses you spend most???
+For this questionnaire, this is a very critical question. We need to know which category that students spend on most. This is also the topic of the entire questionnaire. Daily expenses are divided into many categories, such as food, clothes, gifts, and learning utensils. Through this question, students can choose which category they spend the most, which helps us analyze the data. The drawbacks of this question is that the questionnaire options for this question may not include all kinds of categories that students spend on, therefore, maybe not include accurate.
+
+5. Are you currently satisfied with you spending?
+This question asks about whether students are satisfied with their current consumption level. When we count the answer to this question, we can analyze whether the student's current consumption level is normal or abnormal. But this question will connect people with some privacy issues, which will make those who answer the questionnaire feel very sensitive.
+
+
+
+#Part e
+https://www.stateuniversity.com/blog/permalink/spending-habits-of-college-students-where-their-money-goes.html
+
+https://www.questionpro.com/blog/cluster-sampling/
